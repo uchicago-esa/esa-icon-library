@@ -1,0 +1,82 @@
+.icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.drop-shadow-grey {
+  filter: drop-shadow(2px 2px 2px gray);
+}
+
+/* @@@@@@@@@@@@@@@@@@@@@@@@@ BOOTSTRAP ICONS @@@@@@@@@@@@@@@@@@@@@@@@@ */
+.arrow-bar-up {
+  background-image: url('../icons/bootstrap/arrow-bar-up.svg');
+}
+
+.bookmark-plus {
+  background-image: url('../icons/bootstrap/bookmark-plus.svg');
+}
+
+.caret-right {
+  background-image: url('../icons/bootstrap/caret-right.svg');
+}
+
+
+.arrow-clockwise {
+  background-image: url('../icons/bootstrap/arrow-clockwise.svg');
+}
+
+/* @@@@@@@@@@@@@@@@@@@@@@@@@ ESA CUSTOM ICONS @@@@@@@@@@@@@@@@@@@@@@@@@*/
+.uc-logo-maroon {
+  background-image: url('../icons/esaCustom/UChicago-logo-maroon.svg');
+}
+
+.uc-logo-white {
+  background-image: url('../icons/esaCustom/UChicago-logo-white.svg');
+}
+
+.uc-crescat {
+  background-image: url('../icons/esaCustom/crescat.svg');
+}
+
+.uc-shield-maroon {
+  background-image: url('../icons/esaCustom/shield.rgb.maroon.svg');
+}
+
+/* @@@@@@@@@@@@@@@@@@@@@@@@@ FONTAWESOME ICONS @@@@@@@@@@@@@@@@@@@@@@@@@*/
+
+.comment-dots-solid {
+  background-image: url('../icons/fontawesome/comment-dots-solid.svg');
+}
+.envelope-solid {
+  background-image: url('../icons/fontawesome/envelope-solid.svg');
+}
+.greater-than-solid {
+  background-image: url('../icons/fontawesome/greater-than-solid.svg');
+}
+.lock-solid {
+  background-image: url('../icons/fontawesome/lock-solid.svg');
+}
+.magnifying-glass-solid {
+  background-image: url('../icons/fontawesome/magnifying-glass-solid.svg');
+}
+.phone-solid{
+  background-image: url('../icons/fontawesome/phone-solid.svg');
+}
+.square-facebook {
+  background-image: url('../icons/fontawesome/square-facebook-brands.svg');
+}
+.square-instagram {
+  background-image: url('../icons/fontawesome/square-instagram-brands.svg');
+}
+.square-x-twitter {
+  background-image: url('../icons/fontawesome/square-x-twitter-brands.svg');
+}
+.tiktok {
+  background-image: url('../icons/fontawesome/tiktok-brands.svg');
+}
+.youtube {
+  background-image: url('../icons/fontawesome/youtube-brands.svg');
+}

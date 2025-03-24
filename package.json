@@ -1,0 +1,21 @@
+{
+  "name": "esa-icon-library",
+  "version": "1.0.0",
+  "description": "A CSS library for Bootstrap, ESA Custom, Fontawesome Icons",
+  "main": "dist/icons.css",
+  "scripts": {
+    "build": "postcss src/icons.css -o dist/icons.css --use autoprefixer && npm run minify",
+    "minify": "csso dist/icons.css --output dist/icons.min.css"
+  },
+  "files": [
+    "dist/",
+    "icons/"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^10.4.5",
+    "csso-cli": "^4.0.2",
+    "postcss-cli": "^10.0.0"
+  },
+  "license": "MIT"
+}
